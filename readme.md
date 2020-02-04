@@ -1,6 +1,2 @@
- print("hello world)
- dklsafnkdsvnalsk 
- just a text docuement.
- testing 2
+This is a new readme file that was created tonight.
 
-wsfdafdsf
